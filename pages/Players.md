@@ -1,0 +1,16 @@
+- All stats starting at 9
+- Cloths in taters
+- [[Inventory]]
+- time: 5:05pm
+- [["Evil" Morris Brackenstall]] 3/4
+	- War
+	- Strength +1
+- [[Philomena Ester Elliance]] 4/4
+	- Pestilance
+	- charisma +1
+- [[Morrigan Lilymith]] 4/4
+	- Death
+	- Wisdom +1
+- [[Amaranth Becker]] 4/4
+	- Famine
+	- +1 dex

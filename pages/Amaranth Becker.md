@@ -1,0 +1,5 @@
+- female
+- 5'7''
+	- twigy
+- Orphan, bad outcome
+- can cook?
