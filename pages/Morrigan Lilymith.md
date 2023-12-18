@@ -3,4 +3,7 @@
 - Thallium? poison?
 - recluse in the woods origin
 - can start fires
-	- has matches
+	- has matches (6)
+	- sewing stuff
+- 2nd lightest sleeper
+- lactose intolerant

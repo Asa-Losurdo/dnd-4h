@@ -1,9 +1,11 @@
 - male
 - 5'11''
+- back pack carrier
 - motivated by "evil". the world must burn?
 - armed with fire wood
 - cat energy
 - Enemies:
 	- [[Calis]]
-		- old hag
+		- ~~old hag~~
+		- [[Jefferson]] market guard
 - ![](https://cdn.discordapp.com/attachments/980179468121423995/1183559682611236944/Evil_Morris.png?ex=6588c6d9&is=657651d9&hm=e1927696f2572b906d2a0d7ac747aed0928686d5166414d392f776057bf515ab&){:height 285, :width 328}

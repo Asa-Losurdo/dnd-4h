@@ -1,0 +1,4 @@
+- she
+- 5'1''
+- Rich ran away
+- light sleeper

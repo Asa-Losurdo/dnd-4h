@@ -1,0 +1,7 @@
+- Large growth forest south (pine)
+	- dark during the day
+- day 2
+- collected wood
+- drift wood on the north bank
+- Frigid
+- good fishing

@@ -1,16 +1,20 @@
 - All stats starting at 9
 - Cloths in taters
+- proficiency bonus +1
 - [[Inventory]]
-- time: 5:05pm
+- time: 11:00 am
 - [["Evil" Morris Brackenstall]] 3/4
 	- War
 	- Strength +1
-- [[Philomena Ester Elliance]] 4/4
+- [[Philomena (Mena) Ester Elliance]] 3/4
 	- Pestilance
 	- charisma +1
+	- ~~Pot head +1 ac~~
 - [[Morrigan Lilymith]] 4/4
 	- Death
 	- Wisdom +1
+	- prof in fire starting
 - [[Amaranth Becker]] 4/4
 	- Famine
 	- +1 dex
+	- prof in cooking
