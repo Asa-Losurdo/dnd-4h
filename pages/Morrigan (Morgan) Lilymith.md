@@ -1,9 +1,9 @@
-- female?
-- 5'5''
+- female? Changeling 5'5''
 - Thallium? poison?
 - recluse in the woods origin
+- sewing prof
 - can start fires
-	- has matches (6)
+	- has matches (5)
 	- sewing stuff
 - 2nd lightest sleeper
 - lactose intolerant

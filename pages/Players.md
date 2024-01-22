@@ -1,20 +1,33 @@
-- All stats starting at 9
-- Cloths in taters
+- Cloths are acceptable
 - proficiency bonus +1
 - [[Inventory]]
-- time: 11:00 am
-- [["Evil" Morris Brackenstall]] 3/4
+- time: 10:10 am
+	- fall
+	- day 5
+- Str/Dex/Con/Int/Wis/Riz
+- [[Lillian (Lilly) Shepherd]] 5/5
+	- 9/10/9/8/8/8
+		- Nimble escape
+		- Darkvision
 	- War
-	- Strength +1
-- [[Philomena (Mena) Ester Elliance]] 3/4
-	- Pestilance
-	- charisma +1
+- [[Philomena (Mena) Ester Elliance]] 5/5
+	- 8/8/8/9/8/11
+		- Fire resistance
+		- Dark Vision
+		- Thaumaturgy
+	- Pestilence
+	- nicer clothes
 	- ~~Pot head +1 ac~~
-- [[Morrigan Lilymith]] 4/4
+- [[Morrigan (Morgan) Lilymith]] 5/5
+	- 8/8/8/8/11/10
+		- Shape Changer
+		- prof in fire starting
 	- Death
-	- Wisdom +1
-	- prof in fire starting
-- [[Amaranth Becker]] 4/4
+- [[Amaranth (Amy) Becker]] 5/5
+	- 8/8/10/8/9/9
+		- Dark Vision
+		- Earth Walk
+		- Blade Ward
+		- prof in cooking
 	- Famine
-	- +1 dex
-	- prof in cooking
+-

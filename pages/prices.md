@@ -1,0 +1,2 @@
+- 3s for 2yrd nice fabric
+- 5s for 10yrd discount fabric

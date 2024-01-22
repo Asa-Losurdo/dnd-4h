@@ -1,11 +1,16 @@
 - nails
+- Splitting axe
+- 5.5g
+- fabric
+- knife
 - Patched ragged clothes
 - Poker (1d4) w/ eye
 - light crossbow (1d6)
 	- 15 bolts
 - 1 needle and a small amount of thread
-- 1 backpack
+- [[Amaranth (Amy) Becker]] backpack
+	- 16 potato's
 	- cast iron frying pan
-	- 2 tolerable fruit porage
-	- head fruit (w/ broken glass) 1x ration\
 	- 3 quilts
+	- 3/4 liver
+	- Poison mushrooms

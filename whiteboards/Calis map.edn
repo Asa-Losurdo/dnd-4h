@@ -310,7 +310,7 @@
 :nonce 1702258154593
 :isComplete true}}
 :block/updated-at 1702258155640} 
-{:block/created-at 1702857817176
+{:block/created-at 1702864510662
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -326,7 +326,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 571.3333706079311]
+:size [400 657.3334217280826]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -335,8 +335,8 @@
 :point [1552 -16]
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
 :collapsedHeight 0
-:nonce 1702253764820}}
-:block/updated-at 1702857817176} 
+:nonce 1702253764821}}
+:block/updated-at 1702864510662} 
 {:block/created-at 1702259448395
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -347,7 +347,7 @@
 :borderRadius 8
 :index 16
 :scale [1 1]
-:pageId "Amaranth Becker"
+:pageId "Amaranth (Amy) Becker"
 :scaleLevel "md"
 :fill ""
 :compact false
@@ -601,7 +601,7 @@
 :nonce 1702254015388
 :isComplete true}}
 :block/updated-at 1702254433672} 
-{:block/created-at 1702859182289
+{:block/created-at 1702864510691
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -611,13 +611,13 @@
 :borderRadius 8
 :index 14
 :scale [1 1]
-:pageId "Morrigan Lilymith"
+:pageId "Morrigan (Morgan) Lilymith"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 284.6666322267723]
+:size [400 341.9999264417157]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -627,8 +627,8 @@
 :point [2648 368]
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
 :collapsedHeight 0
-:nonce 1702254153939}}
-:block/updated-at 1702859182289} 
+:nonce 1702254153940}}
+:block/updated-at 1702864510691} 
 {:block/created-at 1702258043229
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -650,7 +650,7 @@
 :nonce 1702257995746
 :isComplete true}}
 :block/updated-at 1702258043229} 
-{:block/created-at 1702857817250
+{:block/created-at 1702864510717
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -666,7 +666,7 @@
 :id "6257e4f1-97bb-11ee-adc0-1dd09bfe680d"
 :fontWeight 400
 :noFill true
-:point [1953 379.23]
+:point [1953 413.37]
 :fontSize 20
 :handles 
 {:start 
@@ -677,15 +677,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [571 311.24]
+:point [571 286.09]
 :bindingId "6257e4f3-97bb-11ee-adc0-1dd09bfe680d"}}
 :decorations 
 {:end "arrow"}
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
-:nonce 1702254156075
+:nonce 1702254156076
 :italic false}}
-:block/updated-at 1702857817250} 
-{:block/created-at 1702858638262
+:block/updated-at 1702864510717} 
+{:block/created-at 1702864510700
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -701,7 +701,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 427.9999922804151]
+:size [400 456.6666610793665]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -710,9 +710,9 @@
 :point [824 -416]
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
 :collapsedHeight 0
-:nonce 1702254425114}}
-:block/updated-at 1702858638262} 
-{:block/created-at 1702859102530
+:nonce 1702254425115}}
+:block/updated-at 1702864510700} 
+{:block/created-at 1702864510672
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -728,7 +728,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 682.6667140751507]
+:size [400 711.333421802918]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -738,8 +738,8 @@
 :point [2152 -736]
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
 :collapsedHeight 0
-:nonce 1702254109100}}
-:block/updated-at 1702859102530} 
+:nonce 1702254109101}}
+:block/updated-at 1702864510672} 
 {:block/created-at 1702257609115
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -939,7 +939,7 @@
 :nonce 1702254795109
 :isComplete true}}
 :block/updated-at 1702257609115} 
-{:block/created-at 1702859102544
+{:block/created-at 1702864510720
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -955,13 +955,13 @@
 :id "462d0c61-97bb-11ee-adc0-1dd09bfe680d"
 :fontWeight 400
 :noFill true
-:point [1953 -168.79]
+:point [1953 -144.71]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 215.91]
+:point [0 225.22]
 :bindingId "462d0c62-97bb-11ee-adc0-1dd09bfe680d"}
 :end 
 {:id "end"
@@ -971,9 +971,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
-:nonce 1702254109071
+:nonce 1702254109072
 :italic false}}
-:block/updated-at 1702859102544} 
+:block/updated-at 1702864510720} 
 {:block/created-at 1702859346583
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1081,7 +1081,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "65765683-1e97-4640-8203-9908e1e5353c"} 
-{:block/created-at 1702856714016
+{:block/created-at 1702864510681
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1097,7 +1097,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 169.99994485419714]
+:size [400 198.6667203656212]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -1107,8 +1107,8 @@
 :point [2456 176]
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
 :collapsedHeight 0
-:nonce 1702254131189}}
-:block/updated-at 1702856714016} 
+:nonce 1702254131190}}
+:block/updated-at 1702864510681} 
 {:block/created-at 1702856187263
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1181,7 +1181,7 @@
 :nonce 1702253964225
 :isComplete true}}
 :block/updated-at 1702254433672} 
-{:block/created-at 1702859192424
+{:block/created-at 1702864510720
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1197,7 +1197,7 @@
 :id "e5497430-97c2-11ee-adc0-1dd09bfe680d"
 :fontWeight 400
 :noFill true
-:point [1759.1 -172.67]
+:point [1759.66 -172.67]
 :fontSize 20
 :handles 
 {:start 
@@ -1208,14 +1208,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [3.86 0]
+:point [3.61 0]
 :bindingId "e5497432-97c2-11ee-adc0-1dd09bfe680d"}}
 :decorations 
 {:end "arrow"}
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
-:nonce 1702257382219
+:nonce 1702257382220
 :italic false}}
-:block/updated-at 1702859192424} 
+:block/updated-at 1702864510720} 
 {:block/created-at 1702257609116
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1237,7 +1237,7 @@
 :nonce 1702254855848
 :isComplete true}}
 :block/updated-at 1702257609116} 
-{:block/created-at 1702857817250
+{:block/created-at 1702864510720
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1253,13 +1253,13 @@
 :id "538074b1-97bb-11ee-adc0-1dd09bfe680d"
 :fontWeight 400
 :noFill true
-:point [1953 262.96]
+:point [1953 283.76]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 4.78]
+:point [0 20.61]
 :bindingId "538074b2-97bb-11ee-adc0-1dd09bfe680d"}
 :end 
 {:id "end"
@@ -1269,9 +1269,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
-:nonce 1702254131217
+:nonce 1702254131218
 :italic false}}
-:block/updated-at 1702857817250} 
+:block/updated-at 1702864510720} 
 {:block/created-at 1702258043229
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1413,7 +1413,7 @@
 :nonce 1702257823935
 :isComplete true}}
 :block/updated-at 1702258043229} 
-{:block/created-at 1702859182300
+{:block/created-at 1702864510720
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1429,7 +1429,7 @@
 :id "6112e1d1-97bb-11ee-adc0-1dd09bfe680d"
 :fontWeight 400
 :noFill true
-:point [1953 313.8]
+:point [1953 354.17]
 :fontSize 20
 :handles 
 {:start 
@@ -1440,14 +1440,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [691 151.74]
+:point [691 142.7]
 :bindingId "6112e1d3-97bb-11ee-adc0-1dd09bfe680d"}}
 :decorations 
 {:end "arrow"}
 :parentId "65765211-94f3-4e75-9ab3-9f6ecb708919"
-:nonce 1702254153942
+:nonce 1702254153943
 :italic false}}
-:block/updated-at 1702859182300} 
+:block/updated-at 1702864510720} 
 {:block/created-at 1702258157295
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1870,7 +1870,7 @@
 :assets []
 :shapes-index ("78c34b40-97ba-11ee-adc0-1dd09bfe680d" "effa17c0-97ba-11ee-adc0-1dd09bfe680d" "f1b3aea0-97ba-11ee-adc0-1dd09bfe680d" "f24d5690-97ba-11ee-adc0-1dd09bfe680d" "fd81d680-97ba-11ee-adc0-1dd09bfe680d" "08663aa0-97bb-11ee-adc0-1dd09bfe680d" "0d908e40-97bb-11ee-adc0-1dd09bfe680d" "0e2999f0-97bb-11ee-adc0-1dd09bfe680d" "0e8882d0-97bb-11ee-adc0-1dd09bfe680d" "0ee41050-97bb-11ee-adc0-1dd09bfe680d" "462d0c60-97bb-11ee-adc0-1dd09bfe680d" "462d0c61-97bb-11ee-adc0-1dd09bfe680d" "538074b0-97bb-11ee-adc0-1dd09bfe680d" "538074b1-97bb-11ee-adc0-1dd09bfe680d" "6112e1d0-97bb-11ee-adc0-1dd09bfe680d" "6112e1d1-97bb-11ee-adc0-1dd09bfe680d" "6257e4f0-97bb-11ee-adc0-1dd09bfe680d" "6257e4f1-97bb-11ee-adc0-1dd09bfe680d" "b560e9d0-97bb-11ee-adc0-1dd09bfe680d" "b5e275e0-97bb-11ee-adc0-1dd09bfe680d" "b671e4a0-97bb-11ee-adc0-1dd09bfe680d" "b716b020-97bb-11ee-adc0-1dd09bfe680d" "ba7a9ba0-97bb-11ee-adc0-1dd09bfe680d" "bbc284f0-97bb-11ee-adc0-1dd09bfe680d" "bcb96810-97bb-11ee-adc0-1dd09bfe680d" "cb4be010-97bb-11ee-adc0-1dd09bfe680d" "029c0810-97bc-11ee-adc0-1dd09bfe680d" "30e98440-97bc-11ee-adc0-1dd09bfe680d" "31acd440-97bc-11ee-adc0-1dd09bfe680d" "b20630a0-97bc-11ee-adc0-1dd09bfe680d" "de5cbed0-97bc-11ee-adc0-1dd09bfe680d" "df4ceb30-97bc-11ee-adc0-1dd09bfe680d" "e1495770-97bc-11ee-adc0-1dd09bfe680d" "0380f460-97bd-11ee-adc0-1dd09bfe680d" "0459ef40-97bd-11ee-adc0-1dd09bfe680d" "05730060-97bd-11ee-adc0-1dd09bfe680d" "05d125f0-97bd-11ee-adc0-1dd09bfe680d" "065438a0-97bd-11ee-adc0-1dd09bfe680d" "5e4dbfa0-97c1-11ee-adc0-1dd09bfe680d" "6136aec0-97c1-11ee-adc0-1dd09bfe680d" "624e8760-97c1-11ee-adc0-1dd09bfe680d" "e5494d20-97c2-11ee-adc0-1dd09bfe680d" "e5497430-97c2-11ee-adc0-1dd09bfe680d" "63466a00-97c3-11ee-adc0-1dd09bfe680d" "7650d590-97c3-11ee-adc0-1dd09bfe680d" "eb878c50-97c3-11ee-adc0-1dd09bfe680d" "ec9b9460-97c3-11ee-adc0-1dd09bfe680d" "511be1b0-97c4-11ee-adc0-1dd09bfe680d" "52fb7720-97c4-11ee-adc0-1dd09bfe680d" "56c48d10-97c4-11ee-adc0-1dd09bfe680d" "5e7f2880-97c4-11ee-adc0-1dd09bfe680d" "67386f42-97c4-11ee-adc0-1dd09bfe680d" "69bd4562-97c4-11ee-adc0-1dd09bfe680d" "7b016fe0-97c4-11ee-adc0-1dd09bfe680d" "ad2ee560-97c4-11ee-adc0-1dd09bfe680d" "aeee48a0-97c4-11ee-adc0-1dd09bfe680d" "af510210-97c4-11ee-adc0-1dd09bfe680d" "afdd6390-97c4-11ee-adc0-1dd09bfe680d" "b03a77b0-97c4-11ee-adc0-1dd09bfe680d" "b0ab13d0-97c4-11ee-adc0-1dd09bfe680d" "b0f78620-97c4-11ee-adc0-1dd09bfe680d" "b1690ca0-97c4-11ee-adc0-1dd09bfe680d" "b1b1d570-97c4-11ee-adc0-1dd09bfe680d" "b21ca530-97c4-11ee-adc0-1dd09bfe680d" "b25eb740-97c4-11ee-adc0-1dd09bfe680d" "b2bed8a0-97c4-11ee-adc0-1dd09bfe680d" "b31005e0-97c4-11ee-adc0-1dd09bfe680d" "b3998130-97c4-11ee-adc0-1dd09bfe680d" "066d4542-97c5-11ee-adc0-1dd09bfe680d")}}
 :block/journal? false
-:block/updated-at 1702859824542
+:block/updated-at 1702864510814
 :block/created-at 1702253073783
 :block/type "whiteboard"
 :block/name "calis map"
