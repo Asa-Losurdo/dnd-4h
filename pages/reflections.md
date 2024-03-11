@@ -1,0 +1,9 @@
+- 1
+	- being the evil! poison plot
+		- organize a revolt
+	- take over all the food (become Monsanto)
+		- [[Amaranth (Amy) Becker]]
+	- what to do during the time skip for each player
+		- start becoming the horse men [[Players]]
+		-
+	-

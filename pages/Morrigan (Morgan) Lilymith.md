@@ -7,3 +7,5 @@
 	- sewing stuff
 - 2nd lightest sleeper
 - lactose intolerant
+- observed:
+	- mayor of [[Jefferson]] face

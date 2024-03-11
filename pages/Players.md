@@ -1,7 +1,7 @@
 - Cloths are acceptable
 - proficiency bonus +1
 - [[Inventory]]
-- time: 10:10 am
+- time: 12:10 am
 	- fall
 	- day 5
 - Str/Dex/Con/Int/Wis/Riz
@@ -17,10 +17,9 @@
 		- Thaumaturgy
 	- Pestilence
 	- nicer clothes
-	- ~~Pot head +1 ac~~
 - [[Morrigan (Morgan) Lilymith]] 5/5
 	- 8/8/8/8/11/10
-		- Shape Changer
+		- Shape Changer -> charisma roll for synthetic
 		- prof in fire starting
 	- Death
 - [[Amaranth (Amy) Becker]] 5/5

@@ -1,5 +1,6 @@
 - nails
-- Splitting axe
+- pot (full of slaughter house juice)
+- Splitting axe -> [[Lillian (Lilly) Shepherd]]
 - 5.5g
 - fabric
 - knife

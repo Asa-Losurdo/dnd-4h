@@ -1,5 +1,5 @@
 - Pestilence
 - Tiefling Female 5'1''
-- Rich ran away
+- Rich ran away not from [[Flensia]]
 - light sleeper
 - Resistance to fire damge

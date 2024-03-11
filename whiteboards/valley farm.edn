@@ -507,7 +507,7 @@
 :nonce 1702862409631
 :italic false}}
 :block/updated-at 1702862650088} 
-{:block/created-at 1702862689001
+{:block/created-at 1705885204172
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -523,7 +523,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 657.333354561477]
+:size [400 944.0000037443225]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -532,8 +532,8 @@
 :point [-304 -456]
 :parentId "657f9df8-7c23-4d04-817a-3c824e3b31fe"
 :collapsedHeight 0
-:nonce 1702862446980}}
-:block/updated-at 1702862689001} 
+:nonce 1702862446981}}
+:block/updated-at 1705885204172} 
 {:block/content "farmer steven phil -> mina\n\nthinks [[\"Evil\" Morris Brackenstall]] is nuts"
 :block/format :markdown
 :block/left 
@@ -686,7 +686,8 @@
 :nonce 1
 :assets []
 :shapes-index ("6fef2fa0-9d43-11ee-87d4-4d2080695f61" "723ffd70-9d43-11ee-87d4-4d2080695f61" "745744b0-9d43-11ee-87d4-4d2080695f61" "7927df90-9d43-11ee-87d4-4d2080695f61" "7add30b0-9d43-11ee-87d4-4d2080695f61" "7df65790-9d43-11ee-87d4-4d2080695f61" "7f5cec70-9d43-11ee-87d4-4d2080695f61" "834ceb50-9d43-11ee-87d4-4d2080695f61" "83dbbdd0-9d43-11ee-87d4-4d2080695f61" "8431f420-9d43-11ee-87d4-4d2080695f61" "846fc070-9d43-11ee-87d4-4d2080695f61" "84b04be0-9d43-11ee-87d4-4d2080695f61" "84fc9720-9d43-11ee-87d4-4d2080695f61" "8542c7e0-9d43-11ee-87d4-4d2080695f61" "858ec500-9d43-11ee-87d4-4d2080695f61" "85c82480-9d43-11ee-87d4-4d2080695f61" "86207db0-9d43-11ee-87d4-4d2080695f61" "865b3cc0-9d43-11ee-87d4-4d2080695f61" "86a5da50-9d43-11ee-87d4-4d2080695f61" "86dbde70-9d43-11ee-87d4-4d2080695f61" "88025d10-9d43-11ee-87d4-4d2080695f61" "95162450-9d43-11ee-87d4-4d2080695f61" "a21db690-9d43-11ee-87d4-4d2080695f61" "abd1b100-9d43-11ee-87d4-4d2080695f61" "f6eeaa30-9d43-11ee-87d4-4d2080695f61" "2e64f7d0-9d44-11ee-87d4-4d2080695f61" "3415b980-9d44-11ee-87d4-4d2080695f61" "16fbf7a0-9d45-11ee-87d4-4d2080695f61")}}
-:block/updated-at 1702863304968
+:block/journal? false
+:block/updated-at 1705885204172
 :block/created-at 1702862328454
 :block/type "whiteboard"
 :block/name "valley farm"
