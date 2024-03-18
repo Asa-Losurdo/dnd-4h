@@ -1,7 +1,8 @@
+- room keys
 - nails
 - pot (full of slaughter house juice)
 - Splitting axe -> [[Lillian (Lilly) Shepherd]]
-- 5.5g
+- 5.53g
 - fabric
 - knife
 - Patched ragged clothes
@@ -9,6 +10,8 @@
 - light crossbow (1d6)
 	- 15 bolts
 - 1 needle and a small amount of thread
+- black and white old lady coats
+- silver? spoon
 - [[Amaranth (Amy) Becker]] backpack
 	- 16 potato's
 	- cast iron frying pan

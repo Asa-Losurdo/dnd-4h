@@ -8,4 +8,5 @@
 - 2nd lightest sleeper
 - lactose intolerant
 - observed:
-	- mayor of [[Jefferson]] face
+	- mayor Jefferson of [[Jefferson]] face
+	- Camila Jefferson (distorded)

@@ -1,7 +1,7 @@
 - Cloths are acceptable
 - proficiency bonus +1
 - [[Inventory]]
-- time: 12:10 am
+- time: 6 pm
 	- fall
 	- day 5
 - Str/Dex/Con/Int/Wis/Riz

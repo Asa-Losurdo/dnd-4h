@@ -3,3 +3,5 @@
 - Rich ran away not from [[Flensia]]
 - light sleeper
 - Resistance to fire damge
+- had a pool / can doggy paddle
+- can play some piano +1
